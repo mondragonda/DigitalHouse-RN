@@ -46,8 +46,6 @@ const PointsSummary = ({ movements }) => {
      }
    }, [movements]);
 
-    console.log(summary)
-
    return (
     <View>
         <SectionSubtitleText>TUS PUNTOS</SectionSubtitleText>
